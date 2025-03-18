@@ -20,7 +20,7 @@ API RESTful desenvolvida com NestJS para consulta de endereços através do CEP 
 
 1. Clone o repositório:
 ```bash
-git clone https://seu-repositorio/cep-api.git
+git clone https://github.com/leandrosuy2/nestjs-cep-api.git
 cd cep-api
 ```
 
